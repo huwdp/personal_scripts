@@ -1,0 +1,8 @@
+{
+  "image_extensions": [".jpg", ".jpeg", ".png", ".webp", ".bmp"],
+  "dir": "/home/huw/Desktop/Food/",
+  "data_file": "file-tags.json",
+  "server_url": "http://localhost:8080/v1/chat/completions",
+  "model_alias": "vision-model",
+  "prompt": "Provide 5-10 descriptive tags for this image, comma-separated. Response should only be the tags."
+}
